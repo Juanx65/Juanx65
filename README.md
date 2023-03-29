@@ -10,8 +10,8 @@
 
 <p align='center'>
   <a > <img align='left' src="https://github-readme-stats.vercel.app/api?username=Juanx65&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide_rank=true"/> <a>
-  <a align='center' > <img src="waifu-transparente.gif"/> <a>
-  <a > &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanx65&layout=compact&theme=transparent&hide_border=true"/> <a>
+  <a > <img src="waifu-transparente.gif"/> <a>
+  <a > &nbsp&nbsp&nbsp  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanx65&layout=compact&theme=transparent&hide_border=true"/> <a>
 </p>
     
 <p align='center'> <a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juanx65&theme=transparent&border=61dafb&hide_border=true"/> <a>
