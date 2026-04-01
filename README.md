@@ -39,84 +39,69 @@
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
     <td valign="top">
       <h3>Snapshot</h3>
       <p><sub>Quick profile overview.</sub></p>
       <!--START_SECTION:profile-overview-->
-<table>
-  <tr><td><strong>Public repos</strong></td><td align="right"><code>36</code></td></tr>
-  <tr><td><strong>Followers</strong></td><td align="right"><code>16</code></td></tr>
-  <tr><td><strong>Following</strong></td><td align="right"><code>26</code></td></tr>
-  <tr><td><strong>Total stars</strong></td><td align="right"><code>68</code></td></tr>
-  <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Python, Verilog, Jupyter Notebook, TypeScript</code></td></tr>
-  <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
-</table>
-<p><sub>Updated 1 Apr 2026, 21:11 UTC</sub></p>
-<!--END_SECTION:profile-overview-->
+      <table align="center">
+        <tr><td><strong>Public repos</strong></td><td align="right"><code>36</code></td></tr>
+        <tr><td><strong>Followers</strong></td><td align="right"><code>16</code></td></tr>
+        <tr><td><strong>Following</strong></td><td align="right"><code>26</code></td></tr>
+        <tr><td><strong>Total stars</strong></td><td align="right"><code>68</code></td></tr>
+        <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Python, Verilog, Jupyter Notebook, TypeScript</code></td></tr>
+        <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
+      </table>
+      <p><sub>Updated 1 Apr 2026, 21:11 UTC</sub></p>
+      <!--END_SECTION:profile-overview-->
     </td>
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
     <td valign="top">
       <h3>Featured Repositories</h3>
       <p><sub>Selected projects and recent work.</sub></p>
       <!--START_SECTION:featured-repos-->
-<table>
-  <tr>
-    <td valign="top"><strong><a href="https://github.com/Juanx65/RISC-V">RISC-V</a></strong><br/><sub>Tests for the design flow with Synopsys tools for the implementation of a RISC-V processor.</sub></td>
-    <td valign="top" align="right"><code>Verilog</code><br/><sub>26 stars</sub><br/><sub>updated 2026-02-11</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong><a href="https://github.com/Juanx65/DeepDeconvV2">DeepDeconvV2</a></strong><br/><sub>Deep Deconvolution for Seismic Waves with Real and Simulated Distributed Acoustic Sensing Data: State-of-the-Art Review</sub></td>
-    <td valign="top" align="right"><code>Python</code><br/><sub>15 stars</sub><br/><sub>updated 2026-02-27</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong><a href="https://github.com/Juanx65/ConvSalmonModel">ConvSalmonModel</a></strong><br/><sub>Identification of individual salmons using CNN and HoG approach</sub></td>
-    <td valign="top" align="right"><code>Python</code><br/><sub>4 stars</sub><br/><sub>updated 2026-02-11</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong><a href="https://github.com/Juanx65/DeepDeconv">DeepDeconv</a></strong><br/><sub>Deep Deconvolution for Seismic Waves with Real and Simulated Distributed Acoustic Sensing Data: State-of-the-Art Review</sub></td>
-    <td valign="top" align="right"><code>Python</code><br/><sub>4 stars</sub><br/><sub>updated 2024-12-26</sub></td>
-  </tr>
-</table>
-<!--END_SECTION:featured-repos-->
+      <table align="center">
+        <tr>
+          <td valign="top"><strong><a href="https://github.com/Juanx65/RISC-V">RISC-V</a></strong><br/><sub>Tests for the design flow with Synopsys tools for the implementation of a RISC-V processor.</sub></td>
+          <td valign="top" align="right"><code>Verilog</code><br/><sub>26 stars</sub><br/><sub>updated 2026-02-11</sub></td>
+        </tr>
+        <tr>
+          <td valign="top"><strong><a href="https://github.com/Juanx65/DeepDeconvV2">DeepDeconvV2</a></strong><br/><sub>Deep Deconvolution for Seismic Waves with Real and Simulated Distributed Acoustic Sensing Data: State-of-the-Art Review</sub></td>
+          <td valign="top" align="right"><code>Python</code><br/><sub>15 stars</sub><br/><sub>updated 2026-02-27</sub></td>
+        </tr>
+        <tr>
+          <td valign="top"><strong><a href="https://github.com/Juanx65/ConvSalmonModel">ConvSalmonModel</a></strong><br/><sub>Identification of individual salmons using CNN and HoG approach</sub></td>
+          <td valign="top" align="right"><code>Python</code><br/><sub>4 stars</sub><br/><sub>updated 2026-02-11</sub></td>
+        </tr>
+        <tr>
+          <td valign="top"><strong><a href="https://github.com/Juanx65/DeepDeconv">DeepDeconv</a></strong><br/><sub>Deep Deconvolution for Seismic Waves with Real and Simulated Distributed Acoustic Sensing Data: State-of-the-Art Review</sub></td>
+          <td valign="top" align="right"><code>Python</code><br/><sub>4 stars</sub><br/><sub>updated 2024-12-26</sub></td>
+        </tr>
+      </table>
+      <!--END_SECTION:featured-repos-->
     </td>
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
     <td valign="top">
       <h3>Recent Activity</h3>
       <p><sub>Latest public actions on GitHub.</sub></p>
       <!--START_SECTION:recent-activity-->
-<table>
-  <tr>
-    <td valign="top"><strong>Pushed 0 commits to <a href="https://github.com/Juanx65/Juanx65">Juanx65/Juanx65</a></strong></td>
-    <td valign="top" align="right"><sub>2026-04-01</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Pushed 0 commits to <a href="https://github.com/Juanx65/Juanx65">Juanx65/Juanx65</a></strong></td>
-    <td valign="top" align="right"><sub>2026-04-01</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/NFBaeza/Budget-Monitor">NFBaeza/Budget-Monitor</a></strong></td>
-    <td valign="top" align="right"><sub>2026-03-30</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/microsoft/VibeVoice">microsoft/VibeVoice</a></strong></td>
-    <td valign="top" align="right"><sub>2026-03-30</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/chenglou/pretext">chenglou/pretext</a></strong></td>
-    <td valign="top" align="right"><sub>2026-03-30</sub></td>
-  </tr>
-</table>
-<!--END_SECTION:recent-activity-->
+      <table align="center">
+        <tr><td valign="top"><strong>Pushed 0 commits to <a href="https://github.com/Juanx65/Juanx65">Juanx65/Juanx65</a></strong></td><td valign="top" align="right"><sub>2026-04-01</sub></td></tr>
+        <tr><td valign="top"><strong>Pushed 0 commits to <a href="https://github.com/Juanx65/Juanx65">Juanx65/Juanx65</a></strong></td><td valign="top" align="right"><sub>2026-04-01</sub></td></tr>
+        <tr><td valign="top"><strong>Starred <a href="https://github.com/NFBaeza/Budget-Monitor">NFBaeza/Budget-Monitor</a></strong></td><td valign="top" align="right"><sub>2026-03-30</sub></td></tr>
+        <tr><td valign="top"><strong>Starred <a href="https://github.com/microsoft/VibeVoice">microsoft/VibeVoice</a></strong></td><td valign="top" align="right"><sub>2026-03-30</sub></td></tr>
+        <tr><td valign="top"><strong>Starred <a href="https://github.com/chenglou/pretext">chenglou/pretext</a></strong></td><td valign="top" align="right"><sub>2026-03-30</sub></td></tr>
+      </table>
+      <!--END_SECTION:recent-activity-->
     </td>
   </tr>
 </table>

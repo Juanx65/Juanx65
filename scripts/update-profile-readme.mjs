@@ -141,7 +141,7 @@ function buildOverview(user, repos) {
   ];
 
   return [
-    "<table>",
+    "<table align=\"center\">",
     ...rows.map(
       ([label, value]) =>
         `  <tr><td><strong>${escapeHtml(label)}</strong></td><td align="right"><code>${escapeHtml(value)}</code></td></tr>`,
@@ -180,7 +180,7 @@ function buildFeaturedRepos(repos) {
   }
 
   return [
-    "<table>",
+    "<table align=\"center\">",
     ...featured.map(toFeaturedRepoRow),
     "</table>",
   ].join("\n");
@@ -205,7 +205,7 @@ function buildRecentActivity(events) {
   }
 
   return [
-    "<table>",
+    "<table align=\"center\">",
     ...visibleEvents.map(toActivityRow),
     "</table>",
   ].join("\n");
