@@ -77,10 +77,10 @@ Public repos : 36
 Followers    : 16
 Following    : 26
 Total stars  : 68
-Top stack    : Python, Verilog, Jupyter Notebook, TypeScript, VHDL
-Latest repo  : DeepDeconvV2
+Top stack    : JavaScript, Python, Verilog, Jupyter Notebook, TypeScript
+Latest repo  : Juanx65
 ```
-_Refreshed: 1 Apr 2026, 19:56 UTC_
+_Refreshed: 1 Apr 2026, 20:01 UTC_
 <!--END_SECTION:profile-overview-->
 
 ## Featured Repositories
@@ -95,11 +95,11 @@ _Refreshed: 1 Apr 2026, 19:56 UTC_
 ## Recent Activity
 
 <!--START_SECTION:recent-activity-->
+- 2026-04-01 · Pushed 0 commits to [`Juanx65/Juanx65`](https://github.com/Juanx65/Juanx65)
 - 2026-03-30 · Starred [`NFBaeza/Budget-Monitor`](https://github.com/NFBaeza/Budget-Monitor)
 - 2026-03-30 · Starred [`microsoft/VibeVoice`](https://github.com/microsoft/VibeVoice)
 - 2026-03-30 · Starred [`chenglou/pretext`](https://github.com/chenglou/pretext)
 - 2026-03-26 · Starred [`ptigas/simple-captcha-solver`](https://github.com/ptigas/simple-captcha-solver)
-- 2026-03-26 · Starred [`NopeCHALLC/nopecha-nodejs`](https://github.com/NopeCHALLC/nopecha-nodejs)
 <!--END_SECTION:recent-activity-->
 
 ## Automation
