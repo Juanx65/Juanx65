@@ -16,11 +16,11 @@ if (token) {
   headers.Authorization = `Bearer ${token}`;
 }
 
-async function fetchJson(url) {
-  const response = await fetch(url, { headers });
+async function fetchJson(url, requestHeaders = headers) {
+  const response = await fetch(url, { headers: requestHeaders });
 
   if (!response.ok) {
-    throw new Error(`GitHub API request failed: ${response.status} ${response.statusText} (${url})`);
+    throw new Error(`API request failed: ${response.status} ${response.statusText} (${url})`);
   }
 
   return response.json();
@@ -56,14 +56,8 @@ function replaceSection(content, sectionName, nextContent) {
   return content.replace(pattern, replacement);
 }
 
-function toRepoLine(repo) {
-  const description = repo.description?.trim() || "No description yet.";
-  const language = repo.language ? `\`${repo.language}\` · ` : "";
-  return `- [\`${repo.name}\`](${repo.html_url}) - ${description} ${language}★ ${repo.stargazers_count} · updated ${formatShortDate(repo.updated_at)}`;
-}
-
 function describeEvent(event) {
-  const repoLink = `[\`${event.repo.name}\`](https://github.com/${event.repo.name})`;
+  const repoLink = `<a href="https://github.com/${event.repo.name}">${escapeHtml(event.repo.name)}</a>`;
 
   switch (event.type) {
     case "PushEvent": {
@@ -87,16 +81,16 @@ function describeEvent(event) {
     }
     case "CreateEvent": {
       const refType = event.payload?.ref_type || "resource";
-      const refName = event.payload?.ref ? ` \`${event.payload.ref}\`` : "";
+      const refName = event.payload?.ref ? ` <code>${escapeHtml(event.payload.ref)}</code>` : "";
       return `Created ${refType}${refName} in ${repoLink}`;
     }
     case "DeleteEvent": {
       const refType = event.payload?.ref_type || "resource";
-      const refName = event.payload?.ref ? ` \`${event.payload.ref}\`` : "";
+      const refName = event.payload?.ref ? ` <code>${escapeHtml(event.payload.ref)}</code>` : "";
       return `Deleted ${refType}${refName} in ${repoLink}`;
     }
     case "ReleaseEvent": {
-      const tag = event.payload?.release?.tag_name ? ` \`${event.payload.release.tag_name}\`` : "";
+      const tag = event.payload?.release?.tag_name ? ` <code>${escapeHtml(event.payload.release.tag_name)}</code>` : "";
       return `Published release${tag} in ${repoLink}`;
     }
     case "ForkEvent":
@@ -110,6 +104,15 @@ function describeEvent(event) {
 
 function capitalize(value) {
   return value ? `${value[0].toUpperCase()}${value.slice(1)}` : value;
+}
+
+function escapeHtml(value) {
+  return String(value ?? "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#39;");
 }
 
 function buildOverview(user, repos) {
@@ -128,16 +131,35 @@ function buildOverview(user, repos) {
     .slice()
     .sort((left, right) => new Date(right.updated_at) - new Date(left.updated_at))[0];
 
+  const rows = [
+    ["Public repos", user.public_repos],
+    ["Followers", user.followers],
+    ["Following", user.following],
+    ["Total stars", totalStars],
+    ["Top stack", primaryLanguages],
+    ["Latest repo", latestRepo ? latestRepo.name : "No public repositories yet"],
+  ];
+
   return [
-    "```text",
-    `Public repos : ${user.public_repos}`,
-    `Followers    : ${user.followers}`,
-    `Following    : ${user.following}`,
-    `Total stars  : ${totalStars}`,
-    `Top stack    : ${primaryLanguages}`,
-    `Latest repo  : ${latestRepo ? latestRepo.name : "No public repositories yet"}`,
-    "```",
-    `_Refreshed: ${formatUtcDate(new Date().toISOString())} UTC_`,
+    "<table>",
+    ...rows.map(
+      ([label, value]) =>
+        `  <tr><td><strong>${escapeHtml(label)}</strong></td><td align="right"><code>${escapeHtml(value)}</code></td></tr>`,
+    ),
+    "</table>",
+    `<p><sub>Updated ${escapeHtml(formatUtcDate(new Date().toISOString()))} UTC</sub></p>`,
+  ].join("\n");
+}
+
+function toFeaturedRepoRow(repo) {
+  const description = repo.description?.trim() || "No description yet.";
+  const language = repo.language || "Mixed";
+
+  return [
+    "  <tr>",
+    `    <td valign="top"><strong><a href="${repo.html_url}">${escapeHtml(repo.name)}</a></strong><br/><sub>${escapeHtml(description)}</sub></td>`,
+    `    <td valign="top" align="right"><code>${escapeHtml(language)}</code><br/><sub>${repo.stargazers_count} stars</sub><br/><sub>updated ${escapeHtml(formatShortDate(repo.updated_at))}</sub></td>`,
+    "  </tr>",
   ].join("\n");
 }
 
@@ -154,10 +176,23 @@ function buildFeaturedRepos(repos) {
     .slice(0, 4);
 
   if (featured.length === 0) {
-    return "- Add public repositories to show featured work here.";
+    return "<p><sub>Add public repositories to show featured work here.</sub></p>";
   }
 
-  return featured.map(toRepoLine).join("\n");
+  return [
+    "<table>",
+    ...featured.map(toFeaturedRepoRow),
+    "</table>",
+  ].join("\n");
+}
+
+function toActivityRow(event) {
+  return [
+    "  <tr>",
+    `    <td valign="top"><strong>${describeEvent(event)}</strong></td>`,
+    `    <td valign="top" align="right"><sub>${escapeHtml(formatShortDate(event.created_at))}</sub></td>`,
+    "  </tr>",
+  ].join("\n");
 }
 
 function buildRecentActivity(events) {
@@ -166,12 +201,14 @@ function buildRecentActivity(events) {
     .slice(0, 5);
 
   if (visibleEvents.length === 0) {
-    return "- No recent public activity available yet.";
+    return "<p><sub>No recent public activity available yet.</sub></p>";
   }
 
-  return visibleEvents
-    .map((event) => `- ${formatShortDate(event.created_at)} · ${describeEvent(event)}`)
-    .join("\n");
+  return [
+    "<table>",
+    ...visibleEvents.map(toActivityRow),
+    "</table>",
+  ].join("\n");
 }
 
 async function main() {

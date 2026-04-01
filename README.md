@@ -1,8 +1,7 @@
-<h1 align="center">Hola, soy Juan</h1>
+<h1 align="center">Hi, I'm Juan</h1>
 
 <p align="center">
-  Construyo herramientas, automatizaciones y experimentos web con foco en producto,
-  experiencia de desarrollo e IA aplicada.
+  I build web tools, automations, and AI-driven product experiments.
 </p>
 
 <p align="center">
@@ -26,85 +25,83 @@
   </a>
 </p>
 
-<table>
+<table align="center">
   <tr>
-    <td valign="top" width="62%">
-      <h3>Perfil automatizado</h3>
-      <p>
-        Este perfil mezcla una portada fija con bloques regenerados por
-        GitHub Actions, para que el README se mantenga vivo sin depender
-        de ediciones manuales cada semana.
-      </p>
-      <p>
-        La idea es dejar estable lo visual y automatizar lo que cambia:
-        actividad reciente, repos destacados, metricas rapidas y la fecha
-        de actualizacion.
-      </p>
+    <td valign="top" width="20%">
+      <img src="waifu-transparente.gif" width="90" alt="Profile illustration"  align="left"/>
     </td>
-    <td valign="top" width="38%" align="center">
-      <img src="waifu-transparente.gif" width="180" alt="Ilustracion de perfil" />
+    <td valign="top" width="60%" >
+      <img src="https://streak-stats.demolab.com?user=Juanx65&theme=transparent&hide_border=true"  align="center"/>
+    </td>
+    <td valign="top" width="20%">
+      <img src="waifu-transparente.gif" width="90" alt="Profile illustration" align="right"/>
     </td>
   </tr>
 </table>
 
-## Dashboard
+<table>
+  <tr>
+    <td valign="top">
+      <h3>Snapshot</h3>
+      <p><sub>Quick profile overview.</sub></p>
+      <!--START_SECTION:profile-overview-->
+      <table>
+        <tr><td><strong>Public repos</strong></td><td align="right"><code>36</code></td></tr>
+        <tr><td><strong>Followers</strong></td><td align="right"><code>16</code></td></tr>
+        <tr><td><strong>Following</strong></td><td align="right"><code>26</code></td></tr>
+        <tr><td><strong>Total stars</strong></td><td align="right"><code>68</code></td></tr>
+        <tr><td><strong>Top stack</strong></td><td align="right"><code>Python, Verilog, Jupyter Notebook, TypeScript, VHDL</code></td></tr>
+        <tr><td><strong>Latest repo</strong></td><td align="right"><code>DeepDeconvV2</code></td></tr>
+      </table>
+      <p><sub>Updated 1 Apr 2026, 19:56 UTC</sub></p>
+      <!--END_SECTION:profile-overview-->
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img
-    height="165"
-    alt="GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=Juanx65&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent"
-  />
-  <img
-    height="165"
-    alt="Top languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanx65&layout=compact&hide_border=true&theme=transparent"
-  />
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <h3>Featured Repositories</h3>
+      <p><sub>Selected projects and recent work.</sub></p>
+      <!--START_SECTION:featured-repos-->
+      <table>
+        <tr>
+          <td valign="top"><strong><a href="https://github.com/Juanx65/RISC-V">RISC-V</a></strong><br/><sub>Tests for the design flow with Synopsys tools for the implementation of a RISC-V processor.</sub></td>
+          <td valign="top" align="right"><code>Verilog</code><br/><sub>26 stars</sub><br/><sub>updated 2026-02-11</sub></td>
+        </tr>
+        <tr>
+          <td valign="top"><strong><a href="https://github.com/Juanx65/DeepDeconvV2">DeepDeconvV2</a></strong><br/><sub>Deep Deconvolution for Seismic Waves with Real and Simulated Distributed Acoustic Sensing Data: State-of-the-Art Review</sub></td>
+          <td valign="top" align="right"><code>Python</code><br/><sub>15 stars</sub><br/><sub>updated 2026-02-27</sub></td>
+        </tr>
+        <tr>
+          <td valign="top"><strong><a href="https://github.com/Juanx65/ConvSalmonModel">ConvSalmonModel</a></strong><br/><sub>Identification of individual salmons using CNN and HoG approach</sub></td>
+          <td valign="top" align="right"><code>Python</code><br/><sub>4 stars</sub><br/><sub>updated 2026-02-11</sub></td>
+        </tr>
+        <tr>
+          <td valign="top"><strong><a href="https://github.com/Juanx65/DeepDeconv">DeepDeconv</a></strong><br/><sub>Deep Deconvolution for Seismic Waves with Real and Simulated Distributed Acoustic Sensing Data: State-of-the-Art Review</sub></td>
+          <td valign="top" align="right"><code>Python</code><br/><sub>4 stars</sub><br/><sub>updated 2024-12-26</sub></td>
+        </tr>
+      </table>
+      <!--END_SECTION:featured-repos-->
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img
-    alt="Contribution streak"
-    src="https://streak-stats.demolab.com?user=Juanx65&theme=transparent&hide_border=true"
-  />
-</p>
-
-## Snapshot
-
-<!--START_SECTION:profile-overview-->
-```text
-Public repos : 36
-Followers    : 16
-Following    : 26
-Total stars  : 68
-Top stack    : JavaScript, Python, Verilog, Jupyter Notebook, TypeScript
-Latest repo  : Juanx65
-```
-_Refreshed: 1 Apr 2026, 20:01 UTC_
-<!--END_SECTION:profile-overview-->
-
-## Featured Repositories
-
-<!--START_SECTION:featured-repos-->
-- [`RISC-V`](https://github.com/Juanx65/RISC-V) - Tests for the design flow with Synopsys tools for the implementation of a RISC-V processor. `Verilog` · ★ 26 · updated 2026-02-11
-- [`DeepDeconvV2`](https://github.com/Juanx65/DeepDeconvV2) - Deep Deconvolution for Seismic Waves with Real and Simulated Distributed Acoustic Sensing Data: State-of-the-Art Review `Python` · ★ 15 · updated 2026-02-27
-- [`ConvSalmonModel`](https://github.com/Juanx65/ConvSalmonModel) - Identification of individual salmons using CNN and HoG approach `Python` · ★ 4 · updated 2026-02-11
-- [`DeepDeconv`](https://github.com/Juanx65/DeepDeconv) - Deep Deconvolution for Seismic Waves with Real and Simulated Distributed Acoustic Sensing Data: State-of-the-Art Review `Python` · ★ 4 · updated 2024-12-26
-<!--END_SECTION:featured-repos-->
-
-## Recent Activity
-
-<!--START_SECTION:recent-activity-->
-- 2026-04-01 · Pushed 0 commits to [`Juanx65/Juanx65`](https://github.com/Juanx65/Juanx65)
-- 2026-03-30 · Starred [`NFBaeza/Budget-Monitor`](https://github.com/NFBaeza/Budget-Monitor)
-- 2026-03-30 · Starred [`microsoft/VibeVoice`](https://github.com/microsoft/VibeVoice)
-- 2026-03-30 · Starred [`chenglou/pretext`](https://github.com/chenglou/pretext)
-- 2026-03-26 · Starred [`ptigas/simple-captcha-solver`](https://github.com/ptigas/simple-captcha-solver)
-<!--END_SECTION:recent-activity-->
-
-## Automation
-
-Este README se actualiza automaticamente cada 6 horas con
-[GitHub Actions](./.github/workflows/update-profile-readme.yml).
-Si luego quieres sumar WakaTime, posts del blog o una lista curada de proyectos,
-solo hay que extender el script en [`scripts/update-profile-readme.mjs`](./scripts/update-profile-readme.mjs).
+<table>
+  <tr>
+    <td valign="top">
+      <h3>Recent Activity</h3>
+      <p><sub>Latest public actions on GitHub.</sub></p>
+      <!--START_SECTION:recent-activity-->
+      <table>
+        <tr><td valign="top"><strong>Starred <a href="https://github.com/NFBaeza/Budget-Monitor">NFBaeza/Budget-Monitor</a></strong></td><td valign="top" align="right"><sub>2026-03-30</sub></td></tr>
+        <tr><td valign="top"><strong>Starred <a href="https://github.com/microsoft/VibeVoice">microsoft/VibeVoice</a></strong></td><td valign="top" align="right"><sub>2026-03-30</sub></td></tr>
+        <tr><td valign="top"><strong>Starred <a href="https://github.com/chenglou/pretext">chenglou/pretext</a></strong></td><td valign="top" align="right"><sub>2026-03-30</sub></td></tr>
+        <tr><td valign="top"><strong>Starred <a href="https://github.com/ptigas/simple-captcha-solver">ptigas/simple-captcha-solver</a></strong></td><td valign="top" align="right"><sub>2026-03-26</sub></td></tr>
+        <tr><td valign="top"><strong>Starred <a href="https://github.com/NopeCHALLC/nopecha-nodejs">NopeCHALLC/nopecha-nodejs</a></strong></td><td valign="top" align="right"><sub>2026-03-26</sub></td></tr>
+      </table>
+      <!--END_SECTION:recent-activity-->
+    </td>
+  </tr>
+</table>
