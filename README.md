@@ -49,11 +49,11 @@
   <tr><td><strong>Public repos</strong></td><td align="right"><code>36</code></td></tr>
   <tr><td><strong>Followers</strong></td><td align="right"><code>16</code></td></tr>
   <tr><td><strong>Following</strong></td><td align="right"><code>26</code></td></tr>
-  <tr><td><strong>Total stars</strong></td><td align="right"><code>68</code></td></tr>
-  <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Python, Verilog, Jupyter Notebook, TypeScript</code></td></tr>
-  <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
+  <tr><td><strong>Total stars</strong></td><td align="right"><code>69</code></td></tr>
+  <tr><td><strong>Top stack</strong></td><td align="right"><code>Verilog, JavaScript, Python, Jupyter Notebook, TypeScript</code></td></tr>
+  <tr><td><strong>Latest repo</strong></td><td align="right"><code>RISC-V</code></td></tr>
 </table>
-<p><sub>Updated 3 Apr 2026, 06:37 UTC</sub></p>
+<p><sub>Updated 3 Apr 2026, 12:24 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -68,7 +68,7 @@
 <table align="center">
   <tr>
     <td valign="top"><strong><a href="https://github.com/Juanx65/RISC-V">RISC-V</a></strong><br/><sub>Tests for the design flow with Synopsys tools for the implementation of a RISC-V processor.</sub></td>
-    <td valign="top" align="right"><code>Verilog</code><br/><sub>26 stars</sub><br/><sub>updated 2026-02-11</sub></td>
+    <td valign="top" align="right"><code>Verilog</code><br/><sub>27 stars</sub><br/><sub>updated 2026-04-03</sub></td>
   </tr>
   <tr>
     <td valign="top"><strong><a href="https://github.com/Juanx65/DeepDeconvV2">DeepDeconvV2</a></strong><br/><sub>Deep Deconvolution for Seismic Waves with Real and Simulated Distributed Acoustic Sensing Data: State-of-the-Art Review</sub></td>
