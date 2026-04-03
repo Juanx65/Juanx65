@@ -50,10 +50,10 @@
   <tr><td><strong>Followers</strong></td><td align="right"><code>16</code></td></tr>
   <tr><td><strong>Following</strong></td><td align="right"><code>26</code></td></tr>
   <tr><td><strong>Total stars</strong></td><td align="right"><code>69</code></td></tr>
-  <tr><td><strong>Top stack</strong></td><td align="right"><code>Verilog, JavaScript, Python, Jupyter Notebook, TypeScript</code></td></tr>
-  <tr><td><strong>Latest repo</strong></td><td align="right"><code>RISC-V</code></td></tr>
+  <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
+  <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 3 Apr 2026, 12:24 UTC</sub></p>
+<p><sub>Updated 3 Apr 2026, 18:21 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
