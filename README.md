@@ -48,12 +48,12 @@
 <table align="center">
   <tr><td><strong>Public repos</strong></td><td align="right"><code>36</code></td></tr>
   <tr><td><strong>Followers</strong></td><td align="right"><code>16</code></td></tr>
-  <tr><td><strong>Following</strong></td><td align="right"><code>26</code></td></tr>
+  <tr><td><strong>Following</strong></td><td align="right"><code>27</code></td></tr>
   <tr><td><strong>Total stars</strong></td><td align="right"><code>69</code></td></tr>
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 3 Apr 2026, 18:21 UTC</sub></p>
+<p><sub>Updated 4 Apr 2026, 00:47 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -96,6 +96,14 @@
       <!--START_SECTION:recent-activity-->
 <table align="center">
   <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/Nodeactyl/Nodeactyl">Nodeactyl/Nodeactyl</a></strong></td>
+    <td valign="top" align="right"><sub>2026-04-03</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/goauthentik/authentik">goauthentik/authentik</a></strong></td>
+    <td valign="top" align="right"><sub>2026-04-03</sub></td>
+  </tr>
+  <tr>
     <td valign="top"><strong>Pushed 0 commits to <a href="https://github.com/Consayving/.github">Consayving/.github</a></strong></td>
     <td valign="top" align="right"><sub>2026-04-01</sub></td>
   </tr>
@@ -105,14 +113,6 @@
   </tr>
   <tr>
     <td valign="top"><strong>Created branch <code>main</code> in <a href="https://github.com/Consayving/.github">Consayving/.github</a></strong></td>
-    <td valign="top" align="right"><sub>2026-04-01</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Created branch <code>main</code> in <a href="https://github.com/Consayving/Consayving">Consayving/Consayving</a></strong></td>
-    <td valign="top" align="right"><sub>2026-04-01</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Pushed 0 commits to <a href="https://github.com/Juanx65/Juanx65">Juanx65/Juanx65</a></strong></td>
     <td valign="top" align="right"><sub>2026-04-01</sub></td>
   </tr>
 </table>
