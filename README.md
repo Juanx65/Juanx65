@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 17 Apr 2026, 06:49 UTC</sub></p>
+<p><sub>Updated 17 Apr 2026, 12:32 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -96,6 +96,14 @@
       <!--START_SECTION:recent-activity-->
 <table align="center">
   <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/jamiepine/voicebox">jamiepine/voicebox</a></strong></td>
+    <td valign="top" align="right"><sub>2026-04-17</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/BasedHardware/omi">BasedHardware/omi</a></strong></td>
+    <td valign="top" align="right"><sub>2026-04-17</sub></td>
+  </tr>
+  <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/ocornut/imgui">ocornut/imgui</a></strong></td>
     <td valign="top" align="right"><sub>2026-04-15</sub></td>
   </tr>
@@ -106,14 +114,6 @@
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/jurplel/InstantSpaceSwitcher">jurplel/InstantSpaceSwitcher</a></strong></td>
     <td valign="top" align="right"><sub>2026-04-13</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/Nodeactyl/Nodeactyl">Nodeactyl/Nodeactyl</a></strong></td>
-    <td valign="top" align="right"><sub>2026-04-03</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/goauthentik/authentik">goauthentik/authentik</a></strong></td>
-    <td valign="top" align="right"><sub>2026-04-03</sub></td>
   </tr>
 </table>
 <!--END_SECTION:recent-activity-->
