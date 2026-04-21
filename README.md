@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 21 Apr 2026, 00:56 UTC</sub></p>
+<p><sub>Updated 21 Apr 2026, 06:50 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -96,6 +96,14 @@
       <!--START_SECTION:recent-activity-->
 <table align="center">
   <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/doitsujin/dxvk">doitsujin/dxvk</a></strong></td>
+    <td valign="top" align="right"><sub>2026-04-21</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/Gcenx/DXVK-macOS">Gcenx/DXVK-macOS</a></strong></td>
+    <td valign="top" align="right"><sub>2026-04-21</sub></td>
+  </tr>
+  <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/slint-ui/slint">slint-ui/slint</a></strong></td>
     <td valign="top" align="right"><sub>2026-04-20</sub></td>
   </tr>
@@ -106,14 +114,6 @@
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/jamiepine/voicebox">jamiepine/voicebox</a></strong></td>
     <td valign="top" align="right"><sub>2026-04-17</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/BasedHardware/omi">BasedHardware/omi</a></strong></td>
-    <td valign="top" align="right"><sub>2026-04-17</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/ocornut/imgui">ocornut/imgui</a></strong></td>
-    <td valign="top" align="right"><sub>2026-04-15</sub></td>
   </tr>
 </table>
 <!--END_SECTION:recent-activity-->
