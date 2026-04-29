@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 28 Apr 2026, 18:42 UTC</sub></p>
+<p><sub>Updated 29 Apr 2026, 01:03 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -96,6 +96,10 @@
       <!--START_SECTION:recent-activity-->
 <table align="center">
   <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/warpdotdev/warp">warpdotdev/warp</a></strong></td>
+    <td valign="top" align="right"><sub>2026-04-28</sub></td>
+  </tr>
+  <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/Gcenx/wine-on-mac">Gcenx/wine-on-mac</a></strong></td>
     <td valign="top" align="right"><sub>2026-04-21</sub></td>
   </tr>
@@ -109,10 +113,6 @@
   </tr>
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/doitsujin/dxvk">doitsujin/dxvk</a></strong></td>
-    <td valign="top" align="right"><sub>2026-04-21</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/Gcenx/DXVK-macOS">Gcenx/DXVK-macOS</a></strong></td>
     <td valign="top" align="right"><sub>2026-04-21</sub></td>
   </tr>
 </table>
