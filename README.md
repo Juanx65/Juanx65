@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 30 Apr 2026, 07:04 UTC</sub></p>
+<p><sub>Updated 30 Apr 2026, 12:45 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -94,28 +94,7 @@
       <h3>Recent Activity</h3>
       <p><sub>Latest public actions on GitHub.</sub></p>
       <!--START_SECTION:recent-activity-->
-<table align="center">
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/warpdotdev/warp">warpdotdev/warp</a></strong></td>
-    <td valign="top" align="right"><sub>2026-04-28</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/Gcenx/wine-on-mac">Gcenx/wine-on-mac</a></strong></td>
-    <td valign="top" align="right"><sub>2026-04-21</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/Gcenx/macOS_Wine_builds">Gcenx/macOS_Wine_builds</a></strong></td>
-    <td valign="top" align="right"><sub>2026-04-21</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/Searchstars/proton-slr-wine-macos">Searchstars/proton-slr-wine-macos</a></strong></td>
-    <td valign="top" align="right"><sub>2026-04-21</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/doitsujin/dxvk">doitsujin/dxvk</a></strong></td>
-    <td valign="top" align="right"><sub>2026-04-21</sub></td>
-  </tr>
-</table>
+<p><sub>No recent public activity available yet.</sub></p>
 <!--END_SECTION:recent-activity-->
     </td>
   </tr>
