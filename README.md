@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 10 May 2026, 18:28 UTC</sub></p>
+<p><sub>Updated 11 May 2026, 01:07 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -96,6 +96,10 @@
       <!--START_SECTION:recent-activity-->
 <table align="center">
   <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/zhangfengcdt/memoir">zhangfengcdt/memoir</a></strong></td>
+    <td valign="top" align="right"><sub>2026-05-10</sub></td>
+  </tr>
+  <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/JuanjoV/Workshop_FE_ChipChile">JuanjoV/Workshop_FE_ChipChile</a></strong></td>
     <td valign="top" align="right"><sub>2026-04-30</sub></td>
   </tr>
@@ -109,10 +113,6 @@
   </tr>
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/Gcenx/macOS_Wine_builds">Gcenx/macOS_Wine_builds</a></strong></td>
-    <td valign="top" align="right"><sub>2026-04-21</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/Searchstars/proton-slr-wine-macos">Searchstars/proton-slr-wine-macos</a></strong></td>
     <td valign="top" align="right"><sub>2026-04-21</sub></td>
   </tr>
 </table>
