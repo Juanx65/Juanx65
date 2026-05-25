@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 25 May 2026, 13:23 UTC</sub></p>
+<p><sub>Updated 25 May 2026, 18:43 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -96,6 +96,10 @@
       <!--START_SECTION:recent-activity-->
 <table align="center">
   <tr>
+    <td valign="top"><strong>Discussion on <a href="https://github.com/Consayving/Consayving">Consayving/Consayving</a></strong></td>
+    <td valign="top" align="right"><sub>2026-05-25</sub></td>
+  </tr>
+  <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/IdreesInc/Monocraft">IdreesInc/Monocraft</a></strong></td>
     <td valign="top" align="right"><sub>2026-05-21</sub></td>
   </tr>
@@ -110,10 +114,6 @@
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/JuanjoV/Workshop_FE_ChipChile">JuanjoV/Workshop_FE_ChipChile</a></strong></td>
     <td valign="top" align="right"><sub>2026-04-30</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/warpdotdev/warp">warpdotdev/warp</a></strong></td>
-    <td valign="top" align="right"><sub>2026-04-28</sub></td>
   </tr>
 </table>
 <!--END_SECTION:recent-activity-->
