@@ -48,12 +48,12 @@
 <table align="center">
   <tr><td><strong>Public repos</strong></td><td align="right"><code>36</code></td></tr>
   <tr><td><strong>Followers</strong></td><td align="right"><code>16</code></td></tr>
-  <tr><td><strong>Following</strong></td><td align="right"><code>27</code></td></tr>
+  <tr><td><strong>Following</strong></td><td align="right"><code>28</code></td></tr>
   <tr><td><strong>Total stars</strong></td><td align="right"><code>69</code></td></tr>
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 30 May 2026, 12:37 UTC</sub></p>
+<p><sub>Updated 30 May 2026, 18:32 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -96,6 +96,10 @@
       <!--START_SECTION:recent-activity-->
 <table align="center">
   <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/pelican-eggs/database">pelican-eggs/database</a></strong></td>
+    <td valign="top" align="right"><sub>2026-05-30</sub></td>
+  </tr>
+  <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/ruvnet/RuView">ruvnet/RuView</a></strong></td>
     <td valign="top" align="right"><sub>2026-05-27</sub></td>
   </tr>
@@ -110,10 +114,6 @@
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/lorien/captcha_solver">lorien/captcha_solver</a></strong></td>
     <td valign="top" align="right"><sub>2026-05-21</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/zhangfengcdt/memoir">zhangfengcdt/memoir</a></strong></td>
-    <td valign="top" align="right"><sub>2026-05-10</sub></td>
   </tr>
 </table>
 <!--END_SECTION:recent-activity-->
