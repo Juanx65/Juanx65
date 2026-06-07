@@ -48,12 +48,12 @@
 <table align="center">
   <tr><td><strong>Public repos</strong></td><td align="right"><code>36</code></td></tr>
   <tr><td><strong>Followers</strong></td><td align="right"><code>16</code></td></tr>
-  <tr><td><strong>Following</strong></td><td align="right"><code>28</code></td></tr>
+  <tr><td><strong>Following</strong></td><td align="right"><code>29</code></td></tr>
   <tr><td><strong>Total stars</strong></td><td align="right"><code>69</code></td></tr>
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 7 Jun 2026, 01:18 UTC</sub></p>
+<p><sub>Updated 7 Jun 2026, 07:36 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -96,6 +96,10 @@
       <!--START_SECTION:recent-activity-->
 <table align="center">
   <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/malaybaku/AnimationClipToVrmaSample">malaybaku/AnimationClipToVrmaSample</a></strong></td>
+    <td valign="top" align="right"><sub>2026-06-07</sub></td>
+  </tr>
+  <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/pelican-eggs/database">pelican-eggs/database</a></strong></td>
     <td valign="top" align="right"><sub>2026-05-30</sub></td>
   </tr>
@@ -109,10 +113,6 @@
   </tr>
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/IdreesInc/Monocraft">IdreesInc/Monocraft</a></strong></td>
-    <td valign="top" align="right"><sub>2026-05-21</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/lorien/captcha_solver">lorien/captcha_solver</a></strong></td>
     <td valign="top" align="right"><sub>2026-05-21</sub></td>
   </tr>
 </table>
