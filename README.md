@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 26 Jun 2026, 18:46 UTC</sub></p>
+<p><sub>Updated 27 Jun 2026, 01:09 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -106,10 +106,6 @@
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/pelican-eggs/database">pelican-eggs/database</a></strong></td>
     <td valign="top" align="right"><sub>2026-05-30</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/ruvnet/RuView">ruvnet/RuView</a></strong></td>
-    <td valign="top" align="right"><sub>2026-05-27</sub></td>
   </tr>
 </table>
 <!--END_SECTION:recent-activity-->
