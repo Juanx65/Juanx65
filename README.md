@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 29 Jun 2026, 18:50 UTC</sub></p>
+<p><sub>Updated 30 Jun 2026, 01:10 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -102,10 +102,6 @@
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/malaybaku/AnimationClipToVrmaSample">malaybaku/AnimationClipToVrmaSample</a></strong></td>
     <td valign="top" align="right"><sub>2026-06-07</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/pelican-eggs/database">pelican-eggs/database</a></strong></td>
-    <td valign="top" align="right"><sub>2026-05-30</sub></td>
   </tr>
 </table>
 <!--END_SECTION:recent-activity-->
