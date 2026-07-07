@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 7 Jul 2026, 12:58 UTC</sub></p>
+<p><sub>Updated 7 Jul 2026, 18:47 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -94,12 +94,7 @@
       <h3>Recent Activity</h3>
       <p><sub>Latest public actions on GitHub.</sub></p>
       <!--START_SECTION:recent-activity-->
-<table align="center">
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/fonchii/fbx2vrma-converter">fonchii/fbx2vrma-converter</a></strong></td>
-    <td valign="top" align="right"><sub>2026-06-07</sub></td>
-  </tr>
-</table>
+<p><sub>No recent public activity available yet.</sub></p>
 <!--END_SECTION:recent-activity-->
     </td>
   </tr>
