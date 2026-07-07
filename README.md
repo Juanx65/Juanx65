@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 7 Jul 2026, 07:21 UTC</sub></p>
+<p><sub>Updated 7 Jul 2026, 12:58 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -97,10 +97,6 @@
 <table align="center">
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/fonchii/fbx2vrma-converter">fonchii/fbx2vrma-converter</a></strong></td>
-    <td valign="top" align="right"><sub>2026-06-07</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/malaybaku/AnimationClipToVrmaSample">malaybaku/AnimationClipToVrmaSample</a></strong></td>
     <td valign="top" align="right"><sub>2026-06-07</sub></td>
   </tr>
 </table>
