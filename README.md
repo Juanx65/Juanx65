@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 13 Jul 2026, 18:39 UTC</sub></p>
+<p><sub>Updated 14 Jul 2026, 00:44 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -95,6 +95,14 @@
       <p><sub>Latest public actions on GitHub.</sub></p>
       <!--START_SECTION:recent-activity-->
 <table align="center">
+  <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/Nutlope/hallmark">Nutlope/hallmark</a></strong></td>
+    <td valign="top" align="right"><sub>2026-07-13</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/BICOM-OFICIAL/bicom-mcp-ai">BICOM-OFICIAL/bicom-mcp-ai</a></strong></td>
+    <td valign="top" align="right"><sub>2026-07-13</sub></td>
+  </tr>
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/pedrocid/music-mcp">pedrocid/music-mcp</a></strong></td>
     <td valign="top" align="right"><sub>2026-07-12</sub></td>
