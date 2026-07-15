@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 15 Jul 2026, 12:37 UTC</sub></p>
+<p><sub>Updated 15 Jul 2026, 18:31 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -96,6 +96,10 @@
       <!--START_SECTION:recent-activity-->
 <table align="center">
   <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/cuervolu/wn">cuervolu/wn</a></strong></td>
+    <td valign="top" align="right"><sub>2026-07-15</sub></td>
+  </tr>
+  <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/superseoworld/mcp-spotify">superseoworld/mcp-spotify</a></strong></td>
     <td valign="top" align="right"><sub>2026-07-14</sub></td>
   </tr>
@@ -109,10 +113,6 @@
   </tr>
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/Nutlope/hallmark">Nutlope/hallmark</a></strong></td>
-    <td valign="top" align="right"><sub>2026-07-13</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/BICOM-OFICIAL/bicom-mcp-ai">BICOM-OFICIAL/bicom-mcp-ai</a></strong></td>
     <td valign="top" align="right"><sub>2026-07-13</sub></td>
   </tr>
 </table>
