@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 21 Jul 2026, 03:27 UTC</sub></p>
+<p><sub>Updated 21 Jul 2026, 08:39 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -96,6 +96,10 @@
       <!--START_SECTION:recent-activity-->
 <table align="center">
   <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/hrabanazviking/Seidr-Smidja">hrabanazviking/Seidr-Smidja</a></strong></td>
+    <td valign="top" align="right"><sub>2026-07-21</sub></td>
+  </tr>
+  <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/posecode-dev/posecode">posecode-dev/posecode</a></strong></td>
     <td valign="top" align="right"><sub>2026-07-18</sub></td>
   </tr>
@@ -109,10 +113,6 @@
   </tr>
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/varunneal/spotify-mcp">varunneal/spotify-mcp</a></strong></td>
-    <td valign="top" align="right"><sub>2026-07-14</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/marcelmarais/spotify-mcp-server">marcelmarais/spotify-mcp-server</a></strong></td>
     <td valign="top" align="right"><sub>2026-07-14</sub></td>
   </tr>
 </table>
