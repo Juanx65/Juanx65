@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 24 Jul 2026, 08:36 UTC</sub></p>
+<p><sub>Updated 24 Jul 2026, 14:00 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -96,6 +96,10 @@
       <!--START_SECTION:recent-activity-->
 <table align="center">
   <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/manjaro-arm/opi-zero3-images">manjaro-arm/opi-zero3-images</a></strong></td>
+    <td valign="top" align="right"><sub>2026-07-24</sub></td>
+  </tr>
+  <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/mattpocock/skills">mattpocock/skills</a></strong></td>
     <td valign="top" align="right"><sub>2026-07-22</sub></td>
   </tr>
@@ -110,10 +114,6 @@
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/cuervolu/wn">cuervolu/wn</a></strong></td>
     <td valign="top" align="right"><sub>2026-07-15</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/superseoworld/mcp-spotify">superseoworld/mcp-spotify</a></strong></td>
-    <td valign="top" align="right"><sub>2026-07-14</sub></td>
   </tr>
 </table>
 <!--END_SECTION:recent-activity-->
