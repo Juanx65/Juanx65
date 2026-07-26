@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 25 Jul 2026, 19:18 UTC</sub></p>
+<p><sub>Updated 26 Jul 2026, 03:38 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -96,6 +96,14 @@
       <!--START_SECTION:recent-activity-->
 <table align="center">
   <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/citrolabs/ego-lite">citrolabs/ego-lite</a></strong></td>
+    <td valign="top" align="right"><sub>2026-07-25</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/Pumpkin-MC/Pumpkin">Pumpkin-MC/Pumpkin</a></strong></td>
+    <td valign="top" align="right"><sub>2026-07-25</sub></td>
+  </tr>
+  <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/manjaro-arm/opi-zero3-images">manjaro-arm/opi-zero3-images</a></strong></td>
     <td valign="top" align="right"><sub>2026-07-24</sub></td>
   </tr>
@@ -106,14 +114,6 @@
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/hrabanazviking/Seidr-Smidja">hrabanazviking/Seidr-Smidja</a></strong></td>
     <td valign="top" align="right"><sub>2026-07-21</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/posecode-dev/posecode">posecode-dev/posecode</a></strong></td>
-    <td valign="top" align="right"><sub>2026-07-18</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/cuervolu/wn">cuervolu/wn</a></strong></td>
-    <td valign="top" align="right"><sub>2026-07-15</sub></td>
   </tr>
 </table>
 <!--END_SECTION:recent-activity-->
