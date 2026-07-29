@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 29 Jul 2026, 03:20 UTC</sub></p>
+<p><sub>Updated 29 Jul 2026, 08:50 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -96,6 +96,10 @@
       <!--START_SECTION:recent-activity-->
 <table align="center">
   <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/kha-white/manga-ocr">kha-white/manga-ocr</a></strong></td>
+    <td valign="top" align="right"><sub>2026-07-29</sub></td>
+  </tr>
+  <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/citrolabs/ego-lite">citrolabs/ego-lite</a></strong></td>
     <td valign="top" align="right"><sub>2026-07-25</sub></td>
   </tr>
@@ -110,10 +114,6 @@
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/mattpocock/skills">mattpocock/skills</a></strong></td>
     <td valign="top" align="right"><sub>2026-07-22</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/hrabanazviking/Seidr-Smidja">hrabanazviking/Seidr-Smidja</a></strong></td>
-    <td valign="top" align="right"><sub>2026-07-21</sub></td>
   </tr>
 </table>
 <!--END_SECTION:recent-activity-->
