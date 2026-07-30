@@ -46,14 +46,14 @@
       <p><sub>Quick profile overview.</sub></p>
       <!--START_SECTION:profile-overview-->
 <table align="center">
-  <tr><td><strong>Public repos</strong></td><td align="right"><code>36</code></td></tr>
+  <tr><td><strong>Public repos</strong></td><td align="right"><code>37</code></td></tr>
   <tr><td><strong>Followers</strong></td><td align="right"><code>16</code></td></tr>
   <tr><td><strong>Following</strong></td><td align="right"><code>30</code></td></tr>
   <tr><td><strong>Total stars</strong></td><td align="right"><code>70</code></td></tr>
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 29 Jul 2026, 19:33 UTC</sub></p>
+<p><sub>Updated 30 Jul 2026, 02:54 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -96,6 +96,14 @@
       <!--START_SECTION:recent-activity-->
 <table align="center">
   <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/Sikarugir-App/Sikarugir">Sikarugir-App/Sikarugir</a></strong></td>
+    <td valign="top" align="right"><sub>2026-07-29</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Forked <a href="https://github.com/Whisky-App/Whisky">Whisky-App/Whisky</a></strong></td>
+    <td valign="top" align="right"><sub>2026-07-29</sub></td>
+  </tr>
+  <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/kha-white/manga-ocr">kha-white/manga-ocr</a></strong></td>
     <td valign="top" align="right"><sub>2026-07-29</sub></td>
   </tr>
@@ -106,14 +114,6 @@
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/Pumpkin-MC/Pumpkin">Pumpkin-MC/Pumpkin</a></strong></td>
     <td valign="top" align="right"><sub>2026-07-25</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/manjaro-arm/opi-zero3-images">manjaro-arm/opi-zero3-images</a></strong></td>
-    <td valign="top" align="right"><sub>2026-07-24</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/mattpocock/skills">mattpocock/skills</a></strong></td>
-    <td valign="top" align="right"><sub>2026-07-22</sub></td>
   </tr>
 </table>
 <!--END_SECTION:recent-activity-->
