@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 14 Aug 2026, 13:21 UTC</sub></p>
+<p><sub>Updated 14 Aug 2026, 19:02 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -96,6 +96,10 @@
       <!--START_SECTION:recent-activity-->
 <table align="center">
   <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/PrimeIntellect-ai/prime-agent">PrimeIntellect-ai/prime-agent</a></strong></td>
+    <td valign="top" align="right"><sub>2026-08-14</sub></td>
+  </tr>
+  <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/Sikarugir-App/Sikarugir">Sikarugir-App/Sikarugir</a></strong></td>
     <td valign="top" align="right"><sub>2026-07-29</sub></td>
   </tr>
@@ -109,10 +113,6 @@
   </tr>
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/citrolabs/ego-lite">citrolabs/ego-lite</a></strong></td>
-    <td valign="top" align="right"><sub>2026-07-25</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/Pumpkin-MC/Pumpkin">Pumpkin-MC/Pumpkin</a></strong></td>
     <td valign="top" align="right"><sub>2026-07-25</sub></td>
   </tr>
 </table>
