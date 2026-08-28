@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 28 Aug 2026, 11:03 UTC</sub></p>
+<p><sub>Updated 28 Aug 2026, 22:08 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -96,6 +96,14 @@
       <!--START_SECTION:recent-activity-->
 <table align="center">
   <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/livekit/agents">livekit/agents</a></strong></td>
+    <td valign="top" align="right"><sub>2026-08-28</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/DietrichGebert/ponytail">DietrichGebert/ponytail</a></strong></td>
+    <td valign="top" align="right"><sub>2026-08-28</sub></td>
+  </tr>
+  <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/public-apis/public-apis">public-apis/public-apis</a></strong></td>
     <td valign="top" align="right"><sub>2026-08-16</sub></td>
   </tr>
@@ -105,14 +113,6 @@
   </tr>
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/Sikarugir-App/Sikarugir">Sikarugir-App/Sikarugir</a></strong></td>
-    <td valign="top" align="right"><sub>2026-07-29</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Forked <a href="https://github.com/Whisky-App/Whisky">Whisky-App/Whisky</a></strong></td>
-    <td valign="top" align="right"><sub>2026-07-29</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/kha-white/manga-ocr">kha-white/manga-ocr</a></strong></td>
     <td valign="top" align="right"><sub>2026-07-29</sub></td>
   </tr>
 </table>
