@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 9 Sept 2026, 16:25 UTC</sub></p>
+<p><sub>Updated 9 Sept 2026, 20:49 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -96,6 +96,10 @@
       <!--START_SECTION:recent-activity-->
 <table align="center">
   <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/searxng/searxng">searxng/searxng</a></strong></td>
+    <td valign="top" align="right"><sub>2026-09-09</sub></td>
+  </tr>
+  <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/nanayax3/krita-mcp">nanayax3/krita-mcp</a></strong></td>
     <td valign="top" align="right"><sub>2026-09-04</sub></td>
   </tr>
@@ -110,10 +114,6 @@
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/public-apis/public-apis">public-apis/public-apis</a></strong></td>
     <td valign="top" align="right"><sub>2026-08-16</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/PrimeIntellect-ai/prime-agent">PrimeIntellect-ai/prime-agent</a></strong></td>
-    <td valign="top" align="right"><sub>2026-08-14</sub></td>
   </tr>
 </table>
 <!--END_SECTION:recent-activity-->
