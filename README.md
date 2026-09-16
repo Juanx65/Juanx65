@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 15 Sept 2026, 21:09 UTC</sub></p>
+<p><sub>Updated 16 Sept 2026, 04:29 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -110,10 +110,6 @@
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/DietrichGebert/ponytail">DietrichGebert/ponytail</a></strong></td>
     <td valign="top" align="right"><sub>2026-08-28</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/public-apis/public-apis">public-apis/public-apis</a></strong></td>
-    <td valign="top" align="right"><sub>2026-08-16</sub></td>
   </tr>
 </table>
 <!--END_SECTION:recent-activity-->
