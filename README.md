@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Verilog, Python, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 4 Oct 2026, 05:31 UTC</sub></p>
+<p><sub>Updated 4 Oct 2026, 12:09 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -106,10 +106,6 @@
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/searxng/searxng">searxng/searxng</a></strong></td>
     <td valign="top" align="right"><sub>2026-09-09</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/nanayax3/krita-mcp">nanayax3/krita-mcp</a></strong></td>
-    <td valign="top" align="right"><sub>2026-09-04</sub></td>
   </tr>
 </table>
 <!--END_SECTION:recent-activity-->
