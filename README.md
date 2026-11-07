@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Python, Verilog, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 7 Nov 2026, 05:39 UTC</sub></p>
+<p><sub>Updated 7 Nov 2026, 12:48 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -106,10 +106,6 @@
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/KittenML/KittenTTS">KittenML/KittenTTS</a></strong></td>
     <td valign="top" align="right"><sub>2026-10-14</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/p-e-w/heretic">p-e-w/heretic</a></strong></td>
-    <td valign="top" align="right"><sub>2026-10-08</sub></td>
   </tr>
 </table>
 <!--END_SECTION:recent-activity-->
