@@ -47,13 +47,13 @@
       <!--START_SECTION:profile-overview-->
 <table align="center">
   <tr><td><strong>Public repos</strong></td><td align="right"><code>37</code></td></tr>
-  <tr><td><strong>Followers</strong></td><td align="right"><code>19</code></td></tr>
+  <tr><td><strong>Followers</strong></td><td align="right"><code>17</code></td></tr>
   <tr><td><strong>Following</strong></td><td align="right"><code>30</code></td></tr>
   <tr><td><strong>Total stars</strong></td><td align="right"><code>69</code></td></tr>
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Python, Verilog, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 18 Nov 2026, 00:51 UTC</sub></p>
+<p><sub>Updated 18 Nov 2026, 15:28 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -106,10 +106,6 @@
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/frankea/Whisky">frankea/Whisky</a></strong></td>
     <td valign="top" align="right"><sub>2026-10-28</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/NabilRFG12/Reverse-Engineer-anything">NabilRFG12/Reverse-Engineer-anything</a></strong></td>
-    <td valign="top" align="right"><sub>2026-10-18</sub></td>
   </tr>
 </table>
 <!--END_SECTION:recent-activity-->
