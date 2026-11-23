@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Python, Verilog, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 22 Nov 2026, 18:12 UTC</sub></p>
+<p><sub>Updated 23 Nov 2026, 00:33 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -95,6 +95,10 @@
       <p><sub>Latest public actions on GitHub.</sub></p>
       <!--START_SECTION:recent-activity-->
 <table align="center">
+  <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/razorback16/openjev">razorback16/openjev</a></strong></td>
+    <td valign="top" align="right"><sub>2026-11-22</sub></td>
+  </tr>
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/synchopate/llama-modchip">synchopate/llama-modchip</a></strong></td>
     <td valign="top" align="right"><sub>2026-11-10</sub></td>
