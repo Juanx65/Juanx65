@@ -53,7 +53,7 @@
   <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Python, Verilog, Jupyter Notebook, TypeScript</code></td></tr>
   <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
 </table>
-<p><sub>Updated 25 Nov 2026, 00:31 UTC</sub></p>
+<p><sub>Updated 25 Nov 2026, 06:20 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
@@ -96,6 +96,14 @@
       <!--START_SECTION:recent-activity-->
 <table align="center">
   <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/hyz317/StdGEN">hyz317/StdGEN</a></strong></td>
+    <td valign="top" align="right"><sub>2026-11-25</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Starred <a href="https://github.com/Qualcomm-AI-research/garment-gen">Qualcomm-AI-research/garment-gen</a></strong></td>
+    <td valign="top" align="right"><sub>2026-11-25</sub></td>
+  </tr>
+  <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/razorback16/openjev">razorback16/openjev</a></strong></td>
     <td valign="top" align="right"><sub>2026-11-22</sub></td>
   </tr>
@@ -106,10 +114,6 @@
   <tr>
     <td valign="top"><strong>Starred <a href="https://github.com/opensensor/lightNVR">opensensor/lightNVR</a></strong></td>
     <td valign="top" align="right"><sub>2026-11-10</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Starred <a href="https://github.com/frankea/Whisky">frankea/Whisky</a></strong></td>
-    <td valign="top" align="right"><sub>2026-10-28</sub></td>
   </tr>
 </table>
 <!--END_SECTION:recent-activity-->
