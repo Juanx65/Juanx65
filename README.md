@@ -49,11 +49,11 @@
   <tr><td><strong>Public repos</strong></td><td align="right"><code>37</code></td></tr>
   <tr><td><strong>Followers</strong></td><td align="right"><code>17</code></td></tr>
   <tr><td><strong>Following</strong></td><td align="right"><code>30</code></td></tr>
-  <tr><td><strong>Total stars</strong></td><td align="right"><code>69</code></td></tr>
-  <tr><td><strong>Top stack</strong></td><td align="right"><code>JavaScript, Python, Verilog, Jupyter Notebook, TypeScript</code></td></tr>
-  <tr><td><strong>Latest repo</strong></td><td align="right"><code>Juanx65</code></td></tr>
+  <tr><td><strong>Total stars</strong></td><td align="right"><code>70</code></td></tr>
+  <tr><td><strong>Top stack</strong></td><td align="right"><code>Python, JavaScript, Verilog, Jupyter Notebook, TypeScript</code></td></tr>
+  <tr><td><strong>Latest repo</strong></td><td align="right"><code>WifiSniffing</code></td></tr>
 </table>
-<p><sub>Updated 26 Nov 2026, 00:30 UTC</sub></p>
+<p><sub>Updated 26 Nov 2026, 06:20 UTC</sub></p>
 <!--END_SECTION:profile-overview-->
     </td>
   </tr>
